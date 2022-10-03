@@ -1,1 +1,1 @@
-# CodeIt6.2 with React GUI
+# CodeIt6.2 - Fotune Telling DApp with React GUI
